@@ -1,0 +1,6 @@
+J:\DataBase\Dislab.DB\Dislab.DB\bin\Debug\Dislab.DB.dacpac
+J:\DataBase\Dislab.DB\Dislab.DB\bin\Debug\Dislab.DB.dll
+J:\DataBase\Dislab.DB\Dislab.DB\bin\Debug\Dislab.DB.pdb
+J:\DataBase\Dislab.DB\Dislab.DB\obj\Debug\Dislab.DB.sqlproj.AssemblyReference.cache
+J:\DataBase\Dislab.DB\Dislab.DB\obj\Debug\Dislab.DB.dll
+J:\DataBase\Dislab.DB\Dislab.DB\obj\Debug\Dislab.DB.pdb
